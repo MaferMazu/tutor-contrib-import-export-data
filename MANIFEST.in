@@ -1,0 +1,2 @@
+recursive-include tutor_import_export_data/patches *
+recursive-include tutor_import_export_data/templates *
